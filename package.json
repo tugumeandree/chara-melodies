@@ -1,0 +1,35 @@
+{
+  "name": "chara-melodies",
+  "version": "1.0.0",
+  "description": "A beautiful Hymns & Worship App with multilingual support",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [
+    "hymns",
+    "worship",
+    "christian",
+    "songs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^24.10.1",
+    "@types/react": "^19.2.5",
+    "@types/react-dom": "^19.2.3",
+    "lucide-react": "^0.553.0",
+    "next": "^16.0.3",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.22",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^3.4.18"
+  }
+}
