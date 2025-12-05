@@ -1234,6 +1234,525 @@ export const hymnsDatabase: Hymn[] = [
     note: "He Deserves - A Luganda praise song declaring God as our Rock, Warrior, and worthy of all glory.",
     tags: ["Praise", "Victory", "Trust", "Luganda", "Warfare"],
     youtubeUrl: "https://www.youtube.com/embed/P7oFdnXwjRY"
+  },
+  {
+    number: 23,
+    title: "Yesu Nkaragana Naiwe",
+    language: "Runyankore",
+    category: "Worship",
+    lyrics: [
+      {
+        type: "verse",
+        number: 1,
+        lines: [
+          "Yesu, nkaragaana naiwe",
+          "Kuguma ndi owaawe,",
+          "Ongume haihi obutoosha,",
+          "Ai Mukama wangye."
+        ]
+      },
+      {
+        type: "verse",
+        number: 2,
+        lines: [
+          "Tinditiina ngamba zoona,",
+          "Waaba nondwanaho;",
+          "Kandi tindihaba muhanda,",
+          "Waaba onyebembeire."
+        ]
+      },
+      {
+        type: "verse",
+        number: 3,
+        lines: [
+          "Niinyenda kuguma naiwe;",
+          "Ku ndaabeihwabeihw' ensi,",
+          "Yaaguma neenyetayeta",
+          "Kukuhemukaho;"
+        ]
+      },
+      {
+        type: "verse",
+        number: 4,
+        lines: [
+          "Abazigu bangotsire",
+          "Nibenda kuunyita;",
+          "Mbwenu ninkutakira, Yesu,",
+          "Ondinde batangwisa."
+        ]
+      },
+      {
+        type: "verse",
+        number: 5,
+        lines: [
+          "Abakukuratira, Yes'",
+          "Okabaraganisa",
+          "Kubahitsya gy'omu iguru",
+          "Owaaw' ei otuura;"
+        ]
+      },
+      {
+        type: "verse",
+        number: 6,
+        lines: [
+          "Kandi naanye nkaikiriza",
+          "Kuguma ndi owaawe;",
+          "Ompwere n'embabazi zaawe,",
+          "Mukama wangye Yesu."
+        ]
+      },
+      {
+        type: "verse",
+        number: 7,
+        lines: [
+          "Ai Yesu, ompwere ngyende",
+          "Omu kirari kyawe;",
+          "Kandi' amaani gaawe gonka",
+          "Nigo ndikwesiga."
+        ]
+      },
+      {
+        type: "verse",
+        number: 8,
+        lines: [
+          "Gum' ompabur' omuhanda,",
+          "Nkiri omuri egi nsi,",
+          "Obone kumpitsy' omu iguru,",
+          "Mukam' owankunzire."
+        ]
+      }
+    ],
+    note: "Jesus, I Commune With You - A Runyankore hymn expressing devotion and desire to remain in fellowship with Christ.",
+    tags: ["Fellowship", "Devotion", "Abiding", "Runyankore", "Commitment"],
+    youtubeUrl: "https://www.youtube.com/embed/kLnhDFxOFo8"
+  },
+  {
+    number: 24,
+    title: "Blessed Assurance",
+    language: "English",
+    category: "Praise",
+    lyrics: [
+      {
+        type: "verse",
+        number: 1,
+        lines: [
+          "Blessed assurance, Jesus is mine;",
+          "Oh, what a foretaste of glory divine!",
+          "Heir of salvation, purchase of God,",
+          "Born of His Spirit, washed in His blood."
+        ]
+      },
+      {
+        type: "chorus",
+        lines: [
+          "This is my story, this is my song,",
+          "Praising my Savior all the day long.",
+          "This is my story, this is my song,",
+          "Praising my Savior all the day long."
+        ]
+      },
+      {
+        type: "verse",
+        number: 2,
+        lines: [
+          "Perfect submission, perfect delight,",
+          "Visions of rapture now burst on my sight;",
+          "Angels descending, bring from above",
+          "Echoes of mercy, whispers of love."
+        ]
+      },
+      {
+        type: "verse",
+        number: 3,
+        lines: [
+          "Perfect submission, all is at rest,",
+          "I in my Savior am happy and blest;",
+          "Watching and waiting, looking above,",
+          "Filled with His goodness, lost in His love."
+        ]
+      }
+    ],
+    note: "Written by Fanny Crosby in 1873, this hymn celebrates the joy and assurance of salvation in Christ.",
+    tags: ["Assurance", "Salvation", "Joy", "Traditional", "Testimony"],
+    youtubeUrl: "https://www.youtube.com/embed/aIg8Xklv-Tg"
+  },
+  {
+    number: 25,
+    title: "As the Deer Panteth",
+    language: "English",
+    category: "Worship",
+    lyrics: [
+      {
+        type: "verse",
+        number: 1,
+        lines: [
+          "As the deer panteth for the water",
+          "So my soul longeth after Thee",
+          "You alone are my heart's desire",
+          "And I long to worship Thee"
+        ]
+      },
+      {
+        type: "chorus",
+        lines: [
+          "You alone are my Strength, my Shield",
+          "To You alone may my spirit yield",
+          "You alone are my heart's desire",
+          "And I long to worship Thee."
+        ]
+      },
+      {
+        type: "verse",
+        number: 2,
+        lines: [
+          "You're my Friend and You are my Brother",
+          "Even though You are a King",
+          "I love You more than any other",
+          "So much more than anything"
+        ]
+      },
+      {
+        type: "verse",
+        number: 3,
+        lines: [
+          "I want You more than gold or silver",
+          "Only You can satisfy",
+          "You alone are the real joy-giver",
+          "And the apple of my eye"
+        ]
+      }
+    ],
+    note: "Based on Psalm 42:1, a contemporary worship song expressing deep longing and devotion to God.",
+    tags: ["Longing", "Devotion", "Worship", "Psalm", "Contemporary"],
+    youtubeUrl: "https://www.youtube.com/embed/YteoedRdWUI"
+  },
+  {
+    number: 26,
+    title: "Count Your Blessings",
+    language: "English",
+    category: "Thanksgiving",
+    lyrics: [
+      {
+        type: "verse",
+        number: 1,
+        lines: [
+          "When upon life's billows you are tempest tossed,",
+          "When you are discouraged, thinking all is lost,",
+          "Count your many blessings name them one by one,",
+          "And it will surprise you what the Lord hath done."
+        ]
+      },
+      {
+        type: "chorus",
+        lines: [
+          "Count your blessings, name them one by one;",
+          "Count your blessings, see what God hath done;",
+          "Count your blessings, name them one by one,",
+          "And it will surprise you what the Lord hath done."
+        ]
+      },
+      {
+        type: "verse",
+        number: 2,
+        lines: [
+          "Are you ever burdened with a load of care?",
+          "Does the cross seem heavy you are called to bear?",
+          "Count your many blessings, every doubt will fly,",
+          "And you will be singing as the days go by."
+        ]
+      },
+      {
+        type: "verse",
+        number: 3,
+        lines: [
+          "When you look at others with their lands and gold,",
+          "Think that Christ has promised you His wealth untold.",
+          "Count your many blessings, money cannot buy",
+          "Your reward in heaven, nor your Lord on high."
+        ]
+      },
+      {
+        type: "verse",
+        number: 4,
+        lines: [
+          "So amid the conflict, whether great or small,",
+          "Do not be discouraged, God is over all;",
+          "Count your many blessings, angels will attend,",
+          "Help and comfort give you to your journey's end."
+        ]
+      }
+    ],
+    note: "Written by Johnson Oatman Jr. in 1897, this hymn encourages believers to focus on God's blessings during difficult times.",
+    tags: ["Thanksgiving", "Encouragement", "Blessings", "Traditional", "Hope"],
+    youtubeUrl: "https://www.youtube.com/embed/OKj45tT_V_0"
+  },
+  {
+    number: 27,
+    title: "Nsanyukira",
+    language: "Luganda",
+    category: "Praise",
+    lyrics: [
+      {
+        type: "verse",
+        number: 1,
+        lines: [
+          "Nsanyukira ekigambo kino;",
+          "Yesu Mukama atwagala nnyo,",
+          "Alina ebingi ebisanyusa;",
+          "Naye ekisiinga nti, \"nze nkwagala.\""
+        ]
+      },
+      {
+        type: "chorus",
+        lines: [
+          "Anjagala, ye anjagala;",
+          "Nga kitalo (O) kunjagala!",
+          "Anjagala, olw'ekisa kye,",
+          "Nange era mwagala."
+        ]
+      },
+      {
+        type: "verse",
+        number: 2,
+        lines: [
+          "Bwemba nnyonona",
+          "Nemmwerabira,",
+          "Yesu tandeka kubula ddala;",
+          "Ampita mangu okumweyuna Ye",
+          "Er(a) anjijukiz(a)",
+          "Okwagala kwe."
+        ]
+      },
+      {
+        type: "verse",
+        number: 3,
+        lines: [
+          "Bwe nditunuulira",
+          "Ekitiibwa kyo,",
+          "Ndiyimba ntya",
+          "Bwe siyimba bwentyo?",
+          "Nnyimba emirembe",
+          "n'emirembe;",
+          "Yesu kiki ekyakunjagaza nze?"
+        ]
+      },
+      {
+        type: "verse",
+        number: 4,
+        lines: [
+          "Anjagala nange mmwagala Ye,",
+          "Yakka mu nsi",
+          "Olw'okwagala kwe;",
+          "(O)kwagala kwamuleeta",
+          "Ku muti,",
+          "Yesu atwagala ffe bwagazi"
+        ]
+      }
+    ],
+    note: "I Rejoice - A Luganda hymn celebrating Jesus' love and expressing mutual love between Christ and believers.",
+    tags: ["Love", "Joy", "Jesus", "Luganda", "Devotion"],
+    youtubeUrl: "https://www.youtube.com/embed/xJQF5xD3XYg"
+  },
+  {
+    number: 28,
+    title: "In Christ Alone",
+    language: "English",
+    category: "Worship",
+    lyrics: [
+      {
+        type: "verse",
+        number: 1,
+        lines: [
+          "In Christ alone, my hope is found",
+          "He is my light, my strength, my song",
+          "This Cornerstone, this solid ground",
+          "Firm through the fiercest drought and storm",
+          "What heights of love, what depths of peace",
+          "When fears are stilled, when strivings cease",
+          "My Comforter, my All in All",
+          "Here in the love of Christ I stand"
+        ]
+      },
+      {
+        type: "verse",
+        number: 2,
+        lines: [
+          "In Christ alone, who took on flesh",
+          "Fullness of God in helpless babe",
+          "This gift of love and righteousness",
+          "Scorned by the ones He came to save",
+          "'Til on that cross as Jesus died",
+          "The wrath of God was satisfied",
+          "For every sin on Him was laid",
+          "Here in the death of Christ I live, I live"
+        ]
+      },
+      {
+        type: "verse",
+        number: 3,
+        lines: [
+          "There in the ground His body lay",
+          "Light of the world by darkness slain",
+          "Then bursting forth in glorious Day",
+          "Up from the grave He rose again",
+          "And as He stands in victory",
+          "Sin's curse has lost its grip on me",
+          "For I am His and He is mine",
+          "Bought with the precious blood of Christ"
+        ]
+      },
+      {
+        type: "verse",
+        number: 4,
+        lines: [
+          "No guilt in life, no fear in death",
+          "This is the power of Christ in me",
+          "From life's first cry to final breath",
+          "Jesus commands my destiny",
+          "No power of hell, no scheme of man",
+          "Can ever pluck me from His hand",
+          "Till He returns or calls me home",
+          "Here in the power of Christ I'll stand"
+        ]
+      }
+    ],
+    note: "A powerful hymn declaring Christ as the foundation of faith, from incarnation through resurrection to final victory.",
+    tags: ["Christ", "Foundation", "Resurrection", "Victory", "Atonement"],
+    youtubeUrl: "https://www.youtube.com/embed/16KXaq87ou4"
+  },
+  {
+    number: 29,
+    title: "Here is Love",
+    language: "English",
+    category: "Worship",
+    lyrics: [
+      {
+        type: "verse",
+        number: 1,
+        lines: [
+          "Here is love vast as the ocean,",
+          "Loving-kindness as the flood,",
+          "When the Prince of Life, our ransom,",
+          "Shed for us His precious blood.",
+          "Who His love will not remember?",
+          "Who can cease to sing His praise?",
+          "He can never be forgotten",
+          "Throughout heav'n's eternal days."
+        ]
+      },
+      {
+        type: "verse",
+        number: 2,
+        lines: [
+          "On the Mount of Crucifixion,",
+          "Fountains opened deep and wide;",
+          "Through the flood-gates of God's mercy",
+          "Flowed a vast and gracious tide.",
+          "Grace and love like mighty rivers",
+          "Poured incessant from above;",
+          "Heaven's peace and perfect justice",
+          "Kissed a guilty world in love."
+        ]
+      },
+      {
+        type: "verse",
+        number: 3,
+        lines: [
+          "Here is love that conquered evil:",
+          "Christ, the firstborn from the grave;",
+          "Death has failed to be found equal",
+          "To the life of Him Who saves.",
+          "In the valley of our darkness",
+          "Dawned His everlasting light;",
+          "Perfect love in glorious radiance",
+          "Has repelled death's hellish night."
+        ]
+      },
+      {
+        type: "verse",
+        number: 4,
+        lines: [
+          "That same love beyond all measure,",
+          "Mocked and slain by hateful men,",
+          "Lives and reigns in resurrection",
+          "And can never die again.",
+          "Here is love for all the ages,",
+          "Radiant Sun of Heav'n He stands,",
+          "Calling home His Father's children,",
+          "Holding forth His wounded hands."
+        ]
+      },
+      {
+        type: "verse",
+        number: 5,
+        lines: [
+          "Here is love, vast as the heavens;",
+          "Countless as the stars above",
+          "Are the souls that He has ransomed,",
+          "Precious daughters, treasured sons.",
+          "We are called to feast forever on a love beyond our time;",
+          "Glorious Father, Son, and Spirit",
+          "Now with man are intertwined."
+        ]
+      }
+    ],
+    note: "A Welsh hymn celebrating the vast, immeasurable love of God demonstrated through Christ's sacrifice and resurrection.",
+    tags: ["Love", "Sacrifice", "Cross", "Welsh", "Resurrection"],
+    youtubeUrl: "https://www.youtube.com/embed/Ln81AJ9eakg"
+  },
+  {
+    number: 30,
+    title: "Wonderful Merciful Savior",
+    language: "English",
+    category: "Worship",
+    lyrics: [
+      {
+        type: "verse",
+        number: 1,
+        lines: [
+          "Wonderful, merciful Savior",
+          "Precious Redeemer and Friend",
+          "Who would have thought that a Lamb",
+          "Could rescue the souls of men",
+          "Oh, You rescue the souls of men"
+        ]
+      },
+      {
+        type: "verse",
+        number: 2,
+        lines: [
+          "Counselor, Comforter, Keeper",
+          "Spirit we long to embrace",
+          "You offer hope when our hearts have",
+          "Hopelessly lost our way",
+          "Oh, we've hopelessly lost the way"
+        ]
+      },
+      {
+        type: "chorus",
+        lines: [
+          "You are the One that we praise",
+          "You are the One we adore",
+          "You give the healing and grace",
+          "Our hearts always hunger for",
+          "Oh, our hearts always hunger for"
+        ]
+      },
+      {
+        type: "verse",
+        number: 3,
+        lines: [
+          "Almighty, infinite Father",
+          "Faithfully loving Your own",
+          "Here in our weakness You find us",
+          "Falling before Your throne",
+          "Oh, we're falling before Your throne"
+        ]
+      }
+    ],
+    note: "A worship hymn celebrating the many attributes of God - Savior, Redeemer, Counselor, Comforter, and Father.",
+    tags: ["Worship", "Attributes of God", "Mercy", "Grace", "Adoration"],
+    youtubeUrl: "https://www.youtube.com/embed/FUPcXRo_RCc"
   }
 ];
 
