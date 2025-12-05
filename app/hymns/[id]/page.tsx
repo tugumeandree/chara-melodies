@@ -3,48 +3,8 @@
 import { use } from 'react';
 import Link from 'next/link';
 import { ArrowLeft, Share2 } from 'lucide-react';
-import { getHymnByNumber, hymnsDatabase } from '@/data/hymns';
+import { getHymnByNumber } from '@/data/hymns';
 import { HymnDetail } from '@/components/ui/HymnDetail';
-import { Metadata } from 'next';
-
-export async function generateMetadata({ params }: { params: Promise<{ id: string }> }): Promise<Metadata> {
-  const { id } = await params;
-  const hymn = getHymnByNumber(parseInt(id));
-
-  if (!hymn) {
-    return {
-      title: 'Hymn Not Found',
-    };
-  }
-
-  const firstVerse = hymn.lyrics.find(l => l.type === 'verse')?.lines.slice(0, 2).join(' ') || '';
-
-  return {
-    title: `#${hymn.number} ${hymn.title}`,
-    description: `${hymn.title} - ${hymn.language} ${hymn.category} hymn. ${firstVerse}... View lyrics, listen to audio, and watch video accompaniment.`,
-    keywords: [hymn.title, hymn.language, hymn.category, 'hymn lyrics', 'worship song', ...(hymn.tags || [])],
-    openGraph: {
-      title: `#${hymn.number} ${hymn.title} | Chara Melodies`,
-      description: `${hymn.language} ${hymn.category} hymn - ${hymn.note || 'Traditional worship hymn'}`,
-      type: 'article',
-      url: `https://charamelodies.live/hymns/${hymn.number}`,
-    },
-    twitter: {
-      card: 'summary',
-      title: `#${hymn.number} ${hymn.title}`,
-      description: `${hymn.language} ${hymn.category} hymn`,
-    },
-    alternates: {
-      canonical: `https://charamelodies.live/hymns/${hymn.number}`,
-    },
-  };
-}
-
-export async function generateStaticParams() {
-  return hymnsDatabase.map((hymn) => ({
-    id: hymn.number.toString(),
-  }));
-}
 
 export default function HymnPage({ params }: { params: Promise<{ id: string }> }) {
   const { id } = use(params);

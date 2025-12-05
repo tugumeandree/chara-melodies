@@ -102,11 +102,21 @@ export default function RootLayout({
     description: 'Multilingual hymns and worship songs application with 30+ traditional hymns in English, Luganda, Runyankore, and Swahili.',
     applicationCategory: 'MusicApplication',
     operatingSystem: 'Any',
+    browserRequirements: 'Requires JavaScript. Requires HTML5.',
     offers: {
       '@type': 'Offer',
       price: '0',
       priceCurrency: 'USD',
     },
+    featureList: [
+      '30+ Traditional Hymns',
+      'Multilingual Support (English, Luganda, Runyankore, Swahili)',
+      'Worship Session Management',
+      'Lyrics Projection Mode',
+      'Video & Audio Integration',
+      'Dark/Light Theme',
+      'Mobile-First Design'
+    ],
     aggregateRating: {
       '@type': 'AggregateRating',
       ratingValue: '5',

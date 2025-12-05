@@ -6,20 +6,6 @@ import { hymnsDatabase } from '@/data/hymns';
 import { HymnCard } from '@/components/ui/HymnCard';
 import { SearchBar } from '@/components/ui/SearchBar';
 import { Language, Category } from '@/types';
-import { Metadata } from 'next';
-
-export const metadata: Metadata = {
-  title: 'All Hymns',
-  description: 'Browse our complete collection of 30+ traditional hymns and worship songs in English, Luganda, Runyankore, and Swahili. Filter by language, category, or search for your favorite hymns.',
-  openGraph: {
-    title: 'All Hymns | Chara Melodies',
-    description: 'Complete collection of 30+ multilingual hymns and worship songs',
-    url: 'https://charamelodies.live/hymns',
-  },
-  alternates: {
-    canonical: 'https://charamelodies.live/hymns',
-  },
-};
 
 export default function HymnsPage() {
   const [searchQuery, setSearchQuery] = useState('');
