@@ -947,7 +947,7 @@ export const hymnsDatabase: Hymn[] = [
     number: 20,
     title: "Kangume Niiwe",
     language: "Runyankore",
-    category: "Faith",
+    category: "Worship",
     lyrics: [
       {
         type: "chorus",
