@@ -2,10 +2,46 @@
 
 A beautiful, multilingual hymnal web application built with Next.js, featuring elegant design and comprehensive worship tools.
 
+🌐 **Live Site**: [charamelodies.live](https://charamelodies.live)
+
 ![Chara Melodies](https://img.shields.io/badge/Version-1.0.0-gold)
 ![Next.js](https://img.shields.io/badge/Next.js-16-black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.0-cyan)
+
+## 🚀 SEO Optimizations
+
+### Meta Tags & Structured Data
+- ✅ Comprehensive Open Graph tags for social media sharing
+- ✅ Twitter Card metadata for enhanced Twitter previews
+- ✅ Schema.org structured data (WebApplication type)
+- ✅ Dynamic meta tags for each hymn page
+- ✅ Canonical URLs to prevent duplicate content
+- ✅ Rich keywords targeting worship, hymns, and multilingual search
+
+### Technical SEO
+- ✅ XML Sitemap (`/sitemap.xml`) - Auto-generated for all pages
+- ✅ Robots.txt configured for optimal crawling
+- ✅ Web App Manifest for PWA support
+- ✅ Static page generation for better performance
+- ✅ Optimized images (AVIF/WebP) with Cloudinary CDN
+- ✅ Security headers (X-Frame-Options, CSP, etc.)
+- ✅ Mobile-first responsive design
+- ✅ Fast loading times with Next.js 16 Turbopack
+
+### Content Optimization
+- ✅ Semantic HTML structure
+- ✅ Descriptive page titles and meta descriptions
+- ✅ Alt tags for all images
+- ✅ Internal linking structure
+- ✅ 30+ hymns with rich content
+- ✅ Multilingual content (English, Luganda, Runyankore, Swahili)
+
+### Key Pages SEO
+- **Homepage**: Optimized for "multilingual hymns" and "worship songs"
+- **Hymns List**: Filter by language/category with SEO-friendly URLs
+- **Individual Hymns**: Rich metadata with lyrics preview and structured data
+- **All pages**: Mobile-optimized, fast-loading, accessible
 
 ## ✨ Features
 
@@ -294,5 +330,6 @@ For questions, issues, or to request hymn additions:
 
 *"Sing to the Lord a new song; sing to the Lord, all the earth." - Psalm 96:1*
 #Andrew Tugume 
-##Teacher. Technologist. Investor #   c h a r a - m e l o d i e s  
+##Teacher. Technologist. Investor #   c h a r a - m e l o d i e s 
+ 
  
