@@ -859,6 +859,381 @@ export const hymnsDatabase: Hymn[] = [
     note: "Jesus, I Am Nothing Without You - A hymn of complete surrender and dependence on Christ.",
     tags: ["Surrender", "Dedication", "Dependence", "Runyankore", "Consecration"],
     youtubeUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ"
+  },
+  {
+    number: 19,
+    title: "Ninyeshongora",
+    language: "Runyankore",
+    category: "Thanksgiving",
+    lyrics: [
+      {
+        type: "verse",
+        number: 1,
+        lines: [
+          "Ninyeshongora ebyokusima omujuni",
+          "Nimpimbisa ahabwebi yesu akora"
+        ]
+      },
+      {
+        type: "chorus",
+        lines: [
+          "Halleluyah tingira kyikyena",
+          "Asiimwe kandi asiimwe"
+        ]
+      },
+      {
+        type: "verse",
+        number: 2,
+        lines: [
+          "Obyonyoreka nisiima",
+          "Ebyontugisa nisiima"
+        ]
+      },
+      {
+        type: "verse",
+        number: 3,
+        lines: [
+          "Ombereire omushana ogwakira omuhanda gwangye",
+          "Oooh gyenda gye"
+        ]
+      },
+      {
+        type: "verse",
+        number: 4,
+        lines: [
+          "Omukono gwawe (gumbangira)",
+          "Ekigambo kyawe (kimpamya)"
+        ]
+      },
+      {
+        type: "verse",
+        number: 5,
+        lines: [
+          "Okubaho kwawe omumeisho gangye",
+          "Omubyagye byoona",
+          "Oooh ndinzirwe"
+        ]
+      },
+      {
+        type: "verse",
+        number: 6,
+        lines: [
+          "Ondindire omukubaaho kwawe wampamya",
+          "(Oooooooh)"
+        ]
+      },
+      {
+        type: "verse",
+        number: 7,
+        lines: [
+          "Tiwareeka amajuu gangye kujyega",
+          "(Oooooh)"
+        ]
+      },
+      {
+        type: "verse",
+        number: 8,
+        lines: [
+          "Tiwareeka abazigu bangye kunsheka",
+          "(Nisiima)"
+        ]
+      }
+    ],
+    note: "I Give Thanks - A Runyankore song of gratitude celebrating God's faithfulness and guidance.",
+    tags: ["Thanksgiving", "Gratitude", "Praise", "Runyankore", "Testimony"],
+    youtubeUrl: "https://www.youtube.com/embed/8k5oXbBjxKw"
+  },
+  {
+    number: 20,
+    title: "Kangume Niiwe",
+    language: "Runyankore",
+    category: "Faith",
+    lyrics: [
+      {
+        type: "chorus",
+        lines: [
+          "Reka ngume niiwe",
+          "Oryahanshembutysa"
+        ]
+      },
+      {
+        type: "verse",
+        number: 1,
+        lines: [
+          "Abategereza yesu tweena",
+          "(Kutujwe' ke kirunga kyamagara)"
+        ]
+      },
+      {
+        type: "verse",
+        number: 2,
+        lines: [
+          "Amaisho tugahangye yesu",
+          "(Owatandikire kandi ohendera)"
+        ]
+      },
+      {
+        type: "verse",
+        number: 3,
+        lines: [
+          "Okwikiriza kweitu tweena",
+          "(obutagwe nshazi)"
+        ]
+      },
+      {
+        type: "verse",
+        number: 4,
+        lines: [
+          "Obulungi nembabazi zawe",
+          "Nebye biiro byona"
+        ]
+      },
+      {
+        type: "verse",
+        number: 5,
+        lines: [
+          "Amaisho gangye",
+          "Gari ahariwe wenka"
+        ]
+      },
+      {
+        type: "verse",
+        number: 6,
+        lines: [
+          "Abolinda tibatengyesebwa",
+          "Aboyembembera tibaterwa nstibo",
+          "Abocungura bagira obusingye"
+        ]
+      }
+    ],
+    note: "Let Me Remain In You - A Runyankore hymn about abiding in Christ and trusting His faithfulness.",
+    tags: ["Faith", "Abiding", "Trust", "Runyankore", "Perseverance"],
+    youtubeUrl: "https://www.youtube.com/embed/Lq8v7vDXTH4"
+  },
+  {
+    number: 21,
+    title: "Tuhimbise Omugabe",
+    language: "Runyankore",
+    category: "Worship",
+    lyrics: [
+      {
+        type: "chorus",
+        lines: [
+          "Tuhimbise omugabe",
+          "Mwije tuhimbise omugabe"
+        ]
+      },
+      {
+        type: "verse",
+        number: 1,
+        lines: [
+          "Abaikiriza murahi",
+          "Abatooreinwe murahi",
+          "Mwije tuhimbise omugabe"
+        ]
+      },
+      {
+        type: "verse",
+        number: 2,
+        lines: [
+          "Abetsirwe murahi",
+          "Abanyabwenje murahi",
+          "Mwije tuhimbise omugabe"
+        ]
+      },
+      {
+        type: "verse",
+        number: 3,
+        lines: [
+          "Abanyamurwa murahi",
+          "Enganda zoona murahi",
+          "Mwije tuhimbise omugabe"
+        ]
+      },
+      {
+        type: "verse",
+        number: 4,
+        lines: [
+          "Tuhimbise omugabe",
+          "(Aaaaaah)",
+          "Omugabe",
+          "(Eeeeeeh)",
+          "Mwije tuhimbise omugabe"
+        ]
+      },
+      {
+        type: "verse",
+        number: 5,
+        lines: [
+          "Aaaahaaa (aaaah)",
+          "Eeeeeeeh (eeeeeh)",
+          "Mwije tuhimbise omugabe"
+        ]
+      },
+      {
+        type: "verse",
+        number: 6,
+        lines: [
+          "Aryahakitebekye nategeka",
+          "Aryahakitebekye nategeka",
+          "Aryahakitebekye nategeka",
+          "Omugabe wa sayuni nategeka"
+        ]
+      },
+      {
+        type: "verse",
+        number: 7,
+        lines: [
+          "Yesu omugabe yesu omugabe",
+          "Yesu omugabe wa sayuni nategeka"
+        ]
+      },
+      {
+        type: "verse",
+        number: 8,
+        lines: [
+          "Herodi yayenda amwite timanya",
+          "Abanyabwenje bija kumuramya",
+          "Omugabe"
+        ]
+      },
+      {
+        type: "verse",
+        number: 9,
+        lines: [
+          "Abategeki b'ensi egi timanya",
+          "Rufu teramubasize"
+        ]
+      },
+      {
+        type: "verse",
+        number: 10,
+        lines: [
+          "Sitani y'ensi timanya",
+          "Omugabe ayimukire"
+        ]
+      },
+      {
+        type: "verse",
+        number: 11,
+        lines: [
+          "Aryahakitebekye nategeka",
+          "Aryahakitebekye nategeka",
+          "Aryahakitebekye nategeka",
+          "Omugabe wa sayuni nategeka"
+        ]
+      }
+    ],
+    note: "Let Us Praise the King - A powerful Runyankore worship anthem declaring Jesus as the victorious King of Zion.",
+    tags: ["Worship", "Victory", "Kingship", "Runyankore", "Resurrection"],
+    youtubeUrl: "https://www.youtube.com/embed/rH8q4O2yN8M"
+  },
+  {
+    number: 22,
+    title: "Osaanide",
+    language: "Luganda",
+    category: "Praise",
+    lyrics: [
+      {
+        type: "verse",
+        number: 1,
+        lines: [
+          "Olimusumba wange gwenesiga",
+          "Gwenesiga gwenesiga"
+        ]
+      },
+      {
+        type: "verse",
+        number: 2,
+        lines: [
+          "Olimulwanyi wange anwanila",
+          "Anwanila anwanila"
+        ]
+      },
+      {
+        type: "verse",
+        number: 3,
+        lines: [
+          "Olimulwanyi wange anwanila nempangula",
+          "Anwanila anwanila"
+        ]
+      },
+      {
+        type: "verse",
+        number: 4,
+        lines: [
+          "Olimusuba wange atendeka kugwa gwenesiga",
+          "Gwenesiga gwenesiga"
+        ]
+      },
+      {
+        type: "verse",
+        number: 5,
+        lines: [
+          "Olimusuba wange gwenesiga ngakoye",
+          "Gwenesiga gwenesiga"
+        ]
+      },
+      {
+        type: "verse",
+        number: 6,
+        lines: [
+          "Olimusuba wange atanjabulila",
+          "Gwenesiga gwenesiga"
+        ]
+      },
+      {
+        type: "chorus",
+        lines: [
+          "Osaanide ekitibwa na matendo",
+          "Osaanide hallelujah byona bikugwana"
+        ]
+      },
+      {
+        type: "verse",
+        number: 7,
+        lines: [
+          "Tumutende nga ye ye ye",
+          "Tumusute nga ye ye ye",
+          "Tumuwane nga ye ye"
+        ]
+      },
+      {
+        type: "verse",
+        number: 8,
+        lines: [
+          "Asana kwebaza katonda wange",
+          "Ye ye"
+        ]
+      },
+      {
+        type: "verse",
+        number: 9,
+        lines: [
+          "Tumwagale nga",
+          "Ye ye"
+        ]
+      },
+      {
+        type: "verse",
+        number: 10,
+        lines: [
+          "Asana kwebaza katonda wange",
+          "Ye ye"
+        ]
+      },
+      {
+        type: "verse",
+        number: 11,
+        lines: [
+          "Yalina amanyi agasinga",
+          "Ye ye"
+        ]
+      }
+    ],
+    note: "He Deserves - A Luganda praise song declaring God as our Rock, Warrior, and worthy of all glory.",
+    tags: ["Praise", "Victory", "Trust", "Luganda", "Warfare"],
+    youtubeUrl: "https://www.youtube.com/embed/P7oFdnXwjRY"
   }
 ];
 
